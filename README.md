@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vaixxakh/leetcode-solutions/tree/master/0066-plus-one) |
+| [1656-count-good-triplets](https://github.com/vaixxakh/leetcode-solutions/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vaixxakh/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vaixxakh/leetcode-solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/vaixxakh/leetcode-solutions/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
