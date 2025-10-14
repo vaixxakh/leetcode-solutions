@@ -1,0 +1,19 @@
+const mergeTwoLists =(list1,list2) => {
+    let y = {val : 0 , next: null }
+    let x = y;
+    
+    while(list1 && list2){
+        if(list1.val < list2.val) {
+            x.next = list1
+            list1 = list1.next
+        }else{
+            x.next =list2
+            list2 = list2.next
+        }
+        x = x.next;
+        
+
+    }
+  x.next = list1 || list2;
+  return y.next;
+}
